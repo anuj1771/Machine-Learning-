@@ -6,7 +6,9 @@ for i in range(1,11):
      lis.append(i*i)
 
 print(lis)
-
+ 
+ """********************************************************************************"""
+ 
 # 2) count number of 6 between 1 to 100
 count=0
 for i in range(1,101):
@@ -18,6 +20,8 @@ for i in range(1,101):
         
 print(count)
 
+"""********************************************************************************"""
+
 # 3) count no of spaces in string
 count=0
 str=input(str)
@@ -27,6 +31,8 @@ for i in str:
         
 print(count)
 
+"""********************************************************************************"""
+
 # 4)  write table of 5
 lis=[]
 for i in range(1,11):
@@ -34,6 +40,7 @@ for i in range(1,11):
     
 print(lis)
 
+"""********************************************************************************"""
 
 # 5) find no between 1 to 1000 divisible by 2 and 5
 lis=[]
